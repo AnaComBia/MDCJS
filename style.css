@@ -1,0 +1,52 @@
+body{
+    background-image: url(Fundo2.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration-color: rgba(23, 7, 39, 0.96);
+    background-color: rgba(82, 1, 40, 0.31);
+    border-radius: 10px 10px 10px;
+    box-shadow: 5px 5px 0 0 rgba(23, 7, 39, 0.96);
+    position: relative;
+    font-size: 50px;
+}
+
+#tudo{
+    text-align: center;
+    text-decoration-color: rgba(23, 7, 39, 0.96);
+    border-radius: 10px 10px 10px;
+    font-size: 40px;
+    position: relative; left: 0px; 
+}
+
+input{
+    box-shadow: 4px 4px 0 0 black;
+    border-radius: 10px 10px 10px;
+    box-shadow: 5px 5px 0 0 rgba(23, 7, 39, 0.96);
+    height: 30px;
+}
+
+#MDC{
+    text-align: center;
+    text-decoration-color: rgba(23, 7, 39, 0.96);
+    border-radius: 10px 10px 10px;
+    font-size: 40px;
+}
+
+button{
+    box-shadow: 4px 4px 0 0 black;
+    border-radius: 10px 10px 10px;
+    box-shadow: 5px 5px 0 0 rgba(23, 7, 39, 0.96);
+    height: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#resultado{
+    text-align: center;
+    text-decoration-color: rgba(23, 7, 39, 0.96);
+    border-radius: 10px 10px 10px;
+    font-size: 40px;
+}
